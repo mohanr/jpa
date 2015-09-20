@@ -1,0 +1,1 @@
+insert into INMEMORY_DB values('20','TEST','TEST1','TEST2','T3',1000);
